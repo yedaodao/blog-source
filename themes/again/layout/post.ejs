@@ -1,0 +1,7 @@
+<main class="post">
+  <%- partial('_partial/article', {post: page}) %>
+
+  <% if (theme.disqus_shortname) { %>
+    <%- partial('_widget/disqus') %>
+  <% } %>
+</main>

@@ -1,0 +1,37 @@
+# basic
+title: Yedaodao
+subtitle: Keep It Simple and Stupid
+favicon: favicon.ico
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+avatar: https://avatars0.githubusercontent.com/u/10070816?v=3&s=460
+banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
+banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+
+# disqus
+disqus_shortname: yedaodao
+
+# social
+social:
+  github: https://github.com/yedaodao
+  weibo: http://weibo.com/yedaodao90
+
+# nav #
+nav:
+  home: .
+  Concepts: categories/concepts/index.html
+  DataStructure: categories/data-structure/index.html
+  archive: archives/index.html
+  # about: about
+#  rss: atom.xml
+
+# heox-renderre-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+
+google_anlytics: # Put tracking ID here
