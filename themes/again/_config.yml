@@ -7,8 +7,8 @@ favicon: favicon.ico
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
 avatar: https://avatars0.githubusercontent.com/u/10070816?v=3&s=460
-banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
-banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+banner_small: http://yedaodao-static.oss-cn-beijing.aliyuncs.com/hexo/banner-big.jpeg?x-oss-process=style/thumb-banner
+banner_large: http://yedaodao-static.oss-cn-beijing.aliyuncs.com/hexo/banner-big.jpeg
 
 # disqus
 disqus_shortname: yedaodao
